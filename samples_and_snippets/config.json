@@ -2,7 +2,7 @@
     "CarParks": [
         {
             "name": "raf-park-international",
-            "total-spaces": 130,
+            "total-spaces": 192,
             "total-cars": 0,
             "location": "moondalup",
             "broker": "localhost",
